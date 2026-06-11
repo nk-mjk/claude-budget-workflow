@@ -5,6 +5,8 @@
 
 > 제작: 조남경 (Blue) × Claude | 버전: 1.0.0
 
+<img src='https://github.com/nk-mjk/claude-budget-workflow/blob/main/budget-workflow.png' width='75%'>
+
 ---
 
 ## 이 스킬이 하는 일
