@@ -109,5 +109,5 @@ budget-workflow/
 
 ## License
 
-MIT License — 자유롭게 사용·수정·배포할 수 있다.  
-출처를 남겨주면 고맙다.
+MIT License — 자유롭게 사용·수정·배포할 수 있음.  
+출처를 남겨주면 감사.
