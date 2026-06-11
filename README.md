@@ -26,8 +26,8 @@ Sonnet (전처리) → Fable (기획) → Opus / Sonnet (실행) → Fable (합�
 
 ### 방법 1 — .skill 파일로 설치 (권장)
 
-1. 이 레포의 [Releases](../../releases) 에서 `budget-workflow.skill` 파일을 다운로드한다.
-2. Claude Cowork → Settings → Capabilities → Plugins 에서 파일을 드래그하거나 설치한다.
+1. 이 레포에서 `budget-workflow.skill` 파일을 다운로드한다.
+2. Claude Cowork → Settings → Customize → 스킬 → [+](스킬추가) → 스킬만들기 → 스킬 업로드  에서 파일을 드래그하거나 설치한다.
 
 ### 방법 2 — 폴더를 직접 복사
 
